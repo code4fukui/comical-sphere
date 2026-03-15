@@ -1,5 +1,7 @@
 # comical-sphere
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A project that displays animated 3D spheres with comical images.
 
 ## Demo
