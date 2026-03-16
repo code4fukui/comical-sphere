@@ -18,4 +18,4 @@ https://code4fukui.github.io/comical-sphere/
 3. Use the mouse wheel to zoom in and out.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
